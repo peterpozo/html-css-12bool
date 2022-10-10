@@ -10,9 +10,9 @@
     border: 1px solid white;
 }
 
-h1,h2{
-    padding: 1rem;
-}
+/* h1,h2{
+    padding: .5rem;
+} */
 
 .nested{
     background-color: #00e165;
